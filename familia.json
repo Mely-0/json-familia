@@ -1,0 +1,47 @@
+{
+    "familia": [{
+            "parentesco": "xxxxx",
+            "Nombres": "xxxxx",
+            "Apellidos": "xxxxxxxx",
+            "edad": 14,
+            "url": "./img/imagen2.jpg"
+        },
+        {
+            "parentesco": "xxxxx",
+            "Nombres": "xxxxx",
+            "Apellidos": "xxxxxxxx",
+            "edad": 14,
+            "url": "./img/descarga.jpg"
+        },
+        {
+            "parentesco": "xxxxx",
+            "Nombres": "xxxxx",
+            "Apellidos": "xxxxxxxx",
+            "edad": 14,
+            "url": "./img/imagen2.jpg"
+        },
+        {
+            "parentesco": "xxxxx",
+            "Nombres": "xxxxx",
+            "Apellidos": "xxxxxxxx",
+            "edad": 14,
+            "url": "./img/imagen2.jpg"
+        },
+        {
+            "parentesco": "xxxxx",
+            "Nombres": "xxxxx",
+            "Apellidos": "xxxxxxxx",
+            "edad": 14,
+            "url": "./img/imagen2.jpg"
+        },
+        {
+            "parentesco": "xxxxx",
+            "Nombres": "xxxxx",
+            "Apellidos": "xxxxxxxx",
+            "edad": 14,
+            "url": "./img/imagen2.jpg"
+        }
+
+
+    ]
+}

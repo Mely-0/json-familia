@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(31, 97, 141);
+}
+
+p {
+    text-align: center;
+    color: rgb(133, 193, 233);
+}
+
+#tarjetas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 70%;
+    margin: 30px auto;
+}
+
+.contenedor-tarjeta {
+    width: 300px;
+    height: 420spx;
+    color: aliceblue;
+    background: #85C1E9;
+    border-radius: 10px;
+    margin: 50px;
+    text-align: center;
+}
+
+.tarjeta {
+    width: 150px;
+    height: 200px;
+    background: black;
+    border-radius: 10px;
+}
+
+.animacion {
+    animation: voltear 2s;
+}
+
+h3 {
+    text-align: center;
+    margin: 0%;
+}
+
+img {
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+body {
+    background-color: #e9f4fc;
+}
