@@ -1,45 +1,45 @@
 {
     "familia": [{
-            "parentesco": "xxxxx",
-            "Nombres": "xxxxx",
-            "Apellidos": "xxxxxxxx",
-            "edad": 14,
-            "url": "./img/imagen2.jpg"
+            "parentesco": "Madre",
+            "Nombres": "Piedad Esther",
+            "Apellidos": "Rodriguez Prieto",
+            "edad": 49,
+            "url": "./img/madre.png"
         },
         {
-            "parentesco": "xxxxx",
-            "Nombres": "xxxxx",
-            "Apellidos": "xxxxxxxx",
-            "edad": 14,
-            "url": "./img/descarga.jpg"
+            "parentesco": "Hermana",
+            "Nombres": "Yara Vanessa",
+            "Apellidos": "Martinez Rodriguez ",
+            "edad": 28,
+            "url": "./img/hermana.jpg"
         },
         {
-            "parentesco": "xxxxx",
-            "Nombres": "xxxxx",
-            "Apellidos": "xxxxxxxx",
-            "edad": 14,
-            "url": "./img/imagen2.jpg"
+            "parentesco": "Hermano",
+            "Nombres": "Eder Enrique",
+            "Apellidos": "Martinez Rodriguez ",
+            "edad": 30,
+            "url": "./img/hermano.jpg"
         },
         {
-            "parentesco": "xxxxx",
-            "Nombres": "xxxxx",
-            "Apellidos": "xxxxxxxx",
-            "edad": 14,
-            "url": "./img/imagen2.jpg"
+            "parentesco": "Sobrina",
+            "Nombres": "Leireth Sofia",
+            "Apellidos": "Villalobos Martinez",
+            "edad": 3,
+            "url": "./img/sobrina.jpg"
         },
         {
-            "parentesco": "xxxxx",
-            "Nombres": "xxxxx",
-            "Apellidos": "xxxxxxxx",
-            "edad": 14,
-            "url": "./img/imagen2.jpg"
+            "parentesco": "Sobrino",
+            "Nombres": "Sebastian Enrique",
+            "Apellidos": "Martinez fontalvo",
+            "edad": 4,
+            "url": "./img/sobrino.jpg"
         },
         {
-            "parentesco": "xxxxx",
-            "Nombres": "xxxxx",
-            "Apellidos": "xxxxxxxx",
-            "edad": 14,
-            "url": "./img/imagen2.jpg"
+            "parentesco": "yoyito",
+            "Nombres": "Melany Vanessa",
+            "Apellidos": "Martinez Rodriguez",
+            "edad": 16,
+            "url": "./img/yoyito.png"
         }
 
 
